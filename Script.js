@@ -21,3 +21,5 @@ for(el of h3){
     //nayan
 }
 console.log(h3);
+let button =document.querySelector("button");
+button.style.border="none";
