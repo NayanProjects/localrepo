@@ -10,5 +10,6 @@ for(el of h4){
     el.style.backgroundColor="black";
     el.style.fontSize="28px";
     el.style.color="pink";
+    //nayan
 }
 console.log(h4);
