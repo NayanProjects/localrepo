@@ -13,3 +13,11 @@ for(el of h4){
     //nayan
 }
 console.log(h4);
+let h3=document.querySelectorAll("h3");
+for(el of h3){
+    el.style.backgroundColor="black";
+    el.style.fontSize="28px";
+    el.style.color="pink";
+    //nayan
+}
+console.log(h3);
